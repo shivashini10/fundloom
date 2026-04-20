@@ -7,6 +7,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#FF8A65" />
+      </head>
       <body>{children}</body>
     </html>
   );
