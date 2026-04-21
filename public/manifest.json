@@ -1,7 +1,7 @@
 {
   "name": "FundLoom",
   "short_name": "FundLoom",
-  "start_url": "/home",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#FF8A65",
